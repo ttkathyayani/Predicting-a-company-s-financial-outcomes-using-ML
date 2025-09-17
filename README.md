@@ -1,6 +1,6 @@
 # Predicting-a-company-s-financial-outcomes-using-ML
 Predicting a company's financial outcomes, such as P & L statements and quarterly/annual results, using a machine learning approach. We can utilize a linear regression model as a starting point.
-Predict a company's financial outcomes based on historical financial documents produced by various stakeholders, such as revenue reports, expense reports, and other relevant documents. Summary of the Project
+Predict a financial outcomes based on historical financial documents produced by various stakeholders, such as revenue reports, expense reports, and other relevant documents. Summary of the Project
 •	Problem: Predicting a company's profit based on revenue and expenses.
 •	Method: We used linear regression to establish relationships between revenue, expenses, and profit.
 •	Key Insights: As revenue increases, profit tends to increase, while high expenses can negatively impact profit.
